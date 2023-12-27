@@ -1,0 +1,20 @@
+{
+    "name": "juanc/dio",
+    "description": "buscar cep online",
+    "license": "MIT",
+    "autoload": {
+        "psr-0":{"Search":"src/"},
+        "psr-4": {
+            "Juanc\\Dio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juan o gostoso"
+        }
+    ],
+    "require": {
+        "php":">=6.0.1"
+    }
+    
+}
